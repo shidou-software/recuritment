@@ -1213,3 +1213,8 @@ h1[id] {
 .label-primary {
   background-color: #1ABC9C;
 }
+
+.about-us p {
+  line-height: 30px;
+  text-indent: 2em;
+}
